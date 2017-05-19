@@ -1,0 +1,216 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "CsLOOvSS/njdzi2XZwcUei1Sfkc=",
+			"path": "code.google.com/p/cascadia",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "LaoleDNIiJ+Fk4Cljl5grqvhef4=",
+			"path": "code.google.com/p/go.net/html",
+			"revision": "53130366067a",
+			"revisionTime": "2014-05-05T04:38:37Z"
+		},
+		{
+			"checksumSHA1": "QcFaAgjOlEg8FAjmOEG5feC7DBs=",
+			"path": "code.google.com/p/go.net/html/atom",
+			"revision": "53130366067a",
+			"revisionTime": "2014-05-05T04:38:37Z"
+		},
+		{
+			"checksumSHA1": "mMxnY2oCX9MgWs6WywvOwk96lDg=",
+			"path": "github.com/PuerkitoBio/goquery",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "icpCH3YuHsVobNkCCz6NUv69aFc=",
+			"path": "github.com/agtorre/gocolorize",
+			"revision": "99fea4bc9517f07eea8194702cb7076f4845b7de",
+			"revisionTime": "2017-02-17T02:13:38Z"
+		},
+		{
+			"checksumSHA1": "+CqJGh7NIDMnHgScq9sl9tPrnVM=",
+			"path": "github.com/klauspost/compress/flate",
+			"revision": "e80ca55b53e5e6f53deed5c7842e7b7da95e1dc7",
+			"revisionTime": "2017-04-02T14:06:18Z"
+		},
+		{
+			"checksumSHA1": "kWBC7CTgppTdJFXizt4XkURbyCE=",
+			"path": "github.com/klauspost/compress/gzip",
+			"revision": "e80ca55b53e5e6f53deed5c7842e7b7da95e1dc7",
+			"revisionTime": "2017-04-02T14:06:18Z"
+		},
+		{
+			"checksumSHA1": "+azPXaZpPF14YHRghNAer13ThQU=",
+			"path": "github.com/klauspost/compress/zlib",
+			"revision": "e80ca55b53e5e6f53deed5c7842e7b7da95e1dc7",
+			"revisionTime": "2017-04-02T14:06:18Z"
+		},
+		{
+			"checksumSHA1": "iKPMvbAueGfdyHcWCgzwKzm8WVo=",
+			"path": "github.com/klauspost/cpuid",
+			"revision": "09cded8978dc9e80714c4d85b0322337b0a1e5e0",
+			"revisionTime": "2016-03-02T07:53:16Z"
+		},
+		{
+			"checksumSHA1": "hX+j017F4PEtIUGflAneDtLC6hs=",
+			"path": "github.com/klauspost/crc32",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "pd+EJRtxa4JVDzU8SrR3kH8wEfU=",
+			"path": "github.com/leanote/leanote/app/controllers",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "AaglhWbounTJsAOva2PCQ+REyQU=",
+			"path": "github.com/leanote/leanote/app/controllers/admin",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "678Uf51JnwnAuoh+ofV5rQQSlOA=",
+			"path": "github.com/leanote/leanote/app/controllers/api",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "5Ri01h5UVZCuDugSbnPlMh0pOCs=",
+			"path": "github.com/leanote/leanote/app/controllers/member",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "0qw+BWLAAB5X4gDr+dzEeYCoHCw=",
+			"path": "github.com/leanote/leanote/app/db",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "XQWuilNFk6SAtX7kC+5hiEbsi80=",
+			"path": "github.com/leanote/leanote/app/info",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "vgV+38H9GIk0meVOiCFWPeY1O0A=",
+			"path": "github.com/leanote/leanote/app/lea",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "6YTWLP8V1zlQN/E5VVQx305ZONE=",
+			"path": "github.com/leanote/leanote/app/lea/archive",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "PPLlEpPWAUoE83r047aPBsTXXFw=",
+			"path": "github.com/leanote/leanote/app/lea/binder",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "FpnY66NCicQG4u8SlZkjalqZcIo=",
+			"path": "github.com/leanote/leanote/app/lea/blog",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "Tq5ULJWp5sWHnFbgQzi96cKIaRM=",
+			"path": "github.com/leanote/leanote/app/lea/captcha",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "Y3sG5HBjYsM+FgJ4fwXKbKVFrGk=",
+			"path": "github.com/leanote/leanote/app/lea/i18n",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "Zgn/vLwOP9DYGzu07NTy9AKD0xc=",
+			"path": "github.com/leanote/leanote/app/lea/netutil",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "jB3faM7EmsSplAnuyNUIcksCLdo=",
+			"path": "github.com/leanote/leanote/app/lea/route",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "WNNUmNo90r2pDA8HEcPpf6xJP9g=",
+			"path": "github.com/leanote/leanote/app/service",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "HR5CrArYdvlBAxjKCkG739tTPug=",
+			"path": "github.com/revel/cmd/harness",
+			"revision": "e1776bda3c1f45b2d0315ca7b40d443d5f7578e1",
+			"revisionTime": "2017-04-27T04:04:12Z"
+		},
+		{
+			"checksumSHA1": "CoEBOYCjkx/0q2dcm6iGp2jGZjU=",
+			"path": "github.com/revel/config",
+			"revision": "662332b741dd464a886ab0901379c02b9bc5dc30",
+			"revisionTime": "2017-03-24T17:50:30Z"
+		},
+		{
+			"checksumSHA1": "Wundya0G7k/RaoWhhwD3EYcLE7A=",
+			"path": "github.com/revel/revel",
+			"revision": "8b511737be1349346965fddaf7c107017c0c1b9a",
+			"revisionTime": "2017-05-12T04:12:22Z"
+		},
+		{
+			"checksumSHA1": "/SaPpYjv8CXoB7VyfGkv8wvlCQw=",
+			"path": "github.com/robfig/config",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "wtQXDLDa/OJuf3N+jviyY6pYNNA=",
+			"path": "github.com/robfig/pathtree",
+			"revision": "41257a1839e945fce74afd070e02bab2ea2c776a",
+			"revisionTime": "2014-01-21T04:10:23Z"
+		},
+		{
+			"checksumSHA1": "vE43s37+4CJ2CDU6TlOUOYE0K9c=",
+			"path": "golang.org/x/crypto/bcrypt",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "udD2DzUPFZbMVXP0VNADhef4zKk=",
+			"path": "golang.org/x/crypto/blowfish",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "7EZyXN0EmZLgGxZxK01IJua4c8o=",
+			"path": "golang.org/x/net/websocket",
+			"revision": "513929065c19401a1c7b76ecd942f9f86a0c061b",
+			"revisionTime": "2017-05-12T22:20:15Z"
+		},
+		{
+			"checksumSHA1": "wxrHmKhFznZZAjrYK5/nWn+fZGc=",
+			"path": "golang.org/x/sys/unix",
+			"revision": "a2e06a18b0d52d8cb2010e04b372a1965d8e3439",
+			"revisionTime": "2017-04-21T23:22:19Z"
+		},
+		{
+			"checksumSHA1": "eIhF+hmL/XZhzTiAwhLD0M65vlY=",
+			"path": "gopkg.in/fsnotify.v1",
+			"revision": "629574ca2a5df945712d3079857300b5e4da0236",
+			"revisionTime": "2016-10-11T02:33:12Z"
+		},
+		{
+			"checksumSHA1": "21kXunz3lhbp7DjhcxOeTYiHnT8=",
+			"path": "gopkg.in/mgo.v2",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "YKTYgORc5YB1D9IVHM/6bcjfDjc=",
+			"path": "gopkg.in/mgo.v2/bson",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "+1WDRPaOphSCmRMxVPIPBV4aubc=",
+			"path": "gopkg.in/mgo.v2/internal/scram",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "CNUEVcGPN2Xo1YdBcPOm0wnPlE4=",
+			"path": "gopkg.in/mgo.v2/sasl",
+			"revision": ""
+		}
+	],
+	"rootPath": "leanote"
+}
